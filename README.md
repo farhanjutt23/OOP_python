@@ -26,7 +26,7 @@ Trust mw this is very help full for u.
    - Applying these relationships to model real-world scenarios.
 
 5. **Advanced Concepts**:
-   - Exploring interfaces and abstract classes to design flexible and modular applications.
+   - Exploring interfaces and abstract classes to design flexible and modular applications...
    - Delving into design patterns like Singleton, Factory, and Observer to solve common problems in software design.
 
 **Why Campus.X Stands Out**:
