@@ -13,7 +13,7 @@ Trust mw this is very help full for u.
    - **Abstraction**: Grasping how to simplify complex systems by modeling classes appropriate to the problem..
 
 2. **Classes and Objects**:
-   - Creating and using classes and objects.
+   - Creating and using classes and objects...
    - Understanding the relationship between classes and objects.
    - Applying constructors and destructors for initialization and cleanup.
 
