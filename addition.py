@@ -2,7 +2,7 @@
 class number:
     def __init__(self):
         self.x=int(input("Enter the first number"))
-        self.y=int(input("Enter the second number"))
+        self.y=int(input("Enter the second number this"))
        
     def display(self):
         print("The first number is the ", self.x)
