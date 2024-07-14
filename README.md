@@ -12,7 +12,7 @@ Trust mw this is very help full for u.
    - **Polymorphism**: Mastering how objects can be treated as instances of their parent class, allowing for flexibility and the ability to redefine methods.
    - **Abstraction**: Grasping how to simplify complex systems by modeling classes appropriate to the problem..
 
-2. **Classes and Objects**:
+2. **Classes and Objects**:..
    - Creating and using classes and objects...
    - Understanding the relationship between classes and objects.
    - Applying constructors and destructors for initialization and cleanup.
