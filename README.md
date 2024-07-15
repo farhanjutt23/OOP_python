@@ -14,7 +14,7 @@ Trust mw this is very help full for u
 
 2. **Classes and Objects**:..
    - Creating and using classes and objects...
-   - Understanding the relationship between classes and objects..
+   - Understanding the relationship between classes and objects.
    - Applying constructors and destructors for initialization and cleanup.
 
 3. **Methods and Functions**:
