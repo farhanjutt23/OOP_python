@@ -18,8 +18,8 @@ Trust mw this is very help full for u...
    - Applying constructors and destructors for initialization and cleanup.
 
 3. **Methods and Functions**:
-   - Defining and using instance methods, class methods, and static methods...
-   - Understanding method overloading and overriding.
+   - Defining and using instance methods, class methods, and static methods.
+   - Understanding method overloading and overriding
 
 4. **Relationships and Associations**:
    - Learning about different types of relationships like association, aggregation, and composition.
