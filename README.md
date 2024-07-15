@@ -23,7 +23,7 @@ Trust mw this is very help full for u
 
 4. **Relationships and Associations**
    - Learning about different types of relationships like association, aggregation, and composition.
-   - Applying these relationships to model real-world scenarios.
+   - Applying these relationships to model real-world scenarios..
    - ok u will add the files in the code
 
 5. **Advanced Concepts**:
