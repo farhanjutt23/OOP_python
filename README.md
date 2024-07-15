@@ -21,7 +21,7 @@ Trust mw this is very help full for u.
    - Defining and using instance methods, class methods, and static methods.
    - Understanding method overloading and overriding
 
-4. **Relationships and Associations**:
+4. **Relationships and Associations**
    - Learning about different types of relationships like association, aggregation, and composition.
    - Applying these relationships to model real-world scenarios.
    - ok u will add the files in the code
