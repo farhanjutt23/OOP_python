@@ -9,8 +9,8 @@ Trust mw this is very help full for u.
 1. **Fundamental Principles**:
    - **Encapsulation**: Understanding how to bundle data and methods that operate on the data within one unit, or class.
    - **Inheritance**: Learning how classes can inherit properties and behaviors from other classes, promoting code reuse.
-   - **Polymorphism**: Mastering how objects can be treated as instances of their parent class, allowing for flexibility and the ability to redefine methods.
-   - **Abstraction**: Grasping how to simplify complex systems by modeling classes appropriate to the problem..
+   - **Polymorphism**: Mastering how objects can be treated as instances of their parent class, allowing for flexibility and the ability to redefine methods..
+   - **Abstraction**: Grasping how to simplify complex systems by modeling classes appropriate to the problem.
 
 2. **Classes and Objects**:..
    - Creating and using classes and objects...
